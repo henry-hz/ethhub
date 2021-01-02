@@ -37,7 +37,7 @@ The [TokenBridge](https://docs.tokenbridge.net/) application exemplifies this ar
 
 ## Public Sidechain examples
 
-
+* [Fuse](https://fuse.io)
 * [POA Network](https://poa.network)
 * [xDai Stable Chain](https://xdaichain.com)
 * [SKALE](https://skale.network/)
